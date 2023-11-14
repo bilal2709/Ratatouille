@@ -1,0 +1,14 @@
+/* Sélecteur pour la colonne Ref */
+.table-view .column-header:contains("Ref") {
+    -fx-text-fill: white;
+}
+
+/* Sélecteur pour la colonne Type */
+.table-view .column-header:contains("Type") {
+    -fx-text-fill: white;
+}
+
+/* Sélecteur pour la colonne Quantité */
+.table-view .column-header:contains("Quantité") {
+    -fx-text-fill: white;
+}
